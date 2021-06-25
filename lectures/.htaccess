@@ -4,5 +4,5 @@ AuthName ECE528
 AuthType Basic
 
 <Limit GET>
-require user ece528f20
+require user ece528
 </Limit>
