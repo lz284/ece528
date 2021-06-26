@@ -1,5 +1,4 @@
-
-AuthUserFile /dev/null
+AuthUserFile  /root/.htpasswd
 AuthGroupFile /dev/null
 AuthName ECE528
 AuthType Basic
