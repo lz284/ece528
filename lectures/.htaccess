@@ -1,8 +1,8 @@
-AuthUserFile htpasswd
+AuthUserFile /usr/ece528/lectures/.htpasswd
 AuthGroupFile /dev/null
 AuthName ECE528
 AuthType Basic
 
 <Limit GET>
-require user ece528
+require user ece528f21
 </Limit>
