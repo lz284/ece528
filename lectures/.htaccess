@@ -1,4 +1,4 @@
-AuthUserFile  ./lectures/.htpasswd
+AuthUserFile  /root/ece528/lectures/.htpasswd
 AuthGroupFile /dev/null
 AuthName ECE528
 AuthType Basic
