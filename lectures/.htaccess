@@ -1,4 +1,4 @@
-AuthUserFile /opt/guide/https://lz284.github.io/ece528/lectures.html/.htpasswd
+AuthUserFile     https://lz284.github.io/ece528/lectures/.htpasswd
 
   
 AuthGroupFile /dev/null
