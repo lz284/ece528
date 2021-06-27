@@ -1,6 +1,5 @@
-AuthUserFile     https://lz284.github.io/ece528/lectures.html/.htpasswd
+AuthUserFile /var/www/lectures/.htpasswd
 
-  
 AuthGroupFile /dev/null
 AuthName ECE528
 AuthType Basic
